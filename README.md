@@ -67,14 +67,10 @@ I am a versatilist and easily adapt to different roles :arrow_right: Full Stack 
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio"  alt="VisualStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"alt="Git" width="40" height="40"/>
 </div>
+
+</br>
+
 <h3>📊 Github Stats</h3>
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/andjela24/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/andjela24/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andjela24&theme=dark&background=000000)](https://git.io/streak-stats)
 
