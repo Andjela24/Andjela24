@@ -22,9 +22,9 @@ I am a versatilist and easily adapt to different roles :arrow_right: Full Stack 
 <div style="float:left; max-width: 50%;">
 <h3> 🧐 More About Me: </h3>
 
-- 🔭   I’m currently working on meditaion blog
+- :telescope: I’m currently working on meditaion blog
 - 🤝   I’m looking to collaborate on web applications
-- 🌱   I’m currently learning Android;
+- :seedling: I’m currently learning Android;
 - 👨🏻‍💻   Most of my projects are available on Github
 - 🎨   Using this svg and Figma I made 👉
 - 💬   Ask me about anything tech related, I am happy to help;
@@ -67,6 +67,10 @@ Checkout my Goodreads to see the book I have read
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"alt="Git" width="40" height="40"/>
 </div>
 
-![Snake animation](https://github.com/andjela24/andjela24/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andjela24&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-andjela24&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/andjela24/Andjela24/blob/output/github-contribution-grid-snake.svg)
 
 
