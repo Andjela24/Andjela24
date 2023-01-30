@@ -18,8 +18,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Andjela
 </h1>
 I am a versatilist and easily adapt to different roles :arrow_right: Full Stack Web Developer 🌐 App Developer 📱 or beginner level Designer 🎨 depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-
-<div style="float:left; width: 50%;">
+<div style="display: flex; justify-content: space-between; max-width: 100%;">
+<div style="float:left; max-width: 50%;">
 <h3> 🧐 More About Me: </h3>
 
 - 🔭   I’m currently working on meditaion blog
@@ -35,6 +35,7 @@ Checkout my Goodreads to see the book I have read
 </div>
 <div style="float:right; max-width: 50%;">
   <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif"  width="450" height="250">
+</div>
 </div>
 <div id="languages">
   <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
