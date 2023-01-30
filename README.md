@@ -79,7 +79,3 @@ I am a versatilist and easily adapt to different roles :arrow_right: Full Stack 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andjela24&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andjela24&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/andjela24/Andjela24/blob/output/github-contribution-grid-snake.svg)
-
-
