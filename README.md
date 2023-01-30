@@ -20,7 +20,9 @@
   <div id="text">
   :hammer_and_wrench: Languages and Tools :
   </div>
-  <table border="1" style="border-color:white;">
+  </br>
+  <table border="1" style="border-collapse: collapse;
+  border: none;">
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;</td>
