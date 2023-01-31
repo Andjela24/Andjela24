@@ -21,7 +21,7 @@
 I am a versatilist and easily adapt to different roles :arrow_right: Full Stack Web Developer 🌐 App Developer 📱 or beginner level Designer 🎨 depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 </br>
-<img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif"  width="360px">
+<img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif"  width="340px">
 
 <h3> 🧐 More About Me:</h3>
 
@@ -33,7 +33,7 @@ I am a versatilist and easily adapt to different roles :arrow_right: Full Stack 
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1AHCyeXS-vt7o6LL2iG17hGfQsKBzoFLZ/view?usp=share_link)
 
 </br>
-
+</br>
 <div id="languages">
   <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
 <p align="left">
