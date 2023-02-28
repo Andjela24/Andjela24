@@ -30,7 +30,7 @@ I am a versatilist and easily adapt to different roles :arrow_right: Full Stack 
 - 🌱 &nbsp; I’m currently learning Android
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/andjela24?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/andjela-ljubenkovic/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1AHCyeXS-vt7o6LL2iG17hGfQsKBzoFLZ/view?usp=share_link)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1YQWd88EZ1qAUdLT4xhdncZAvDMOhxnP7/view?usp=share_link)
 
 </br>
 </br>
